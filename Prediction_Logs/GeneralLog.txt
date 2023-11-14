@@ -1,0 +1,70 @@
+2022-06-21/11:27:22		GoodRaw directory deleted successfully!!!
+2022-06-21/11:27:22		Bad files moved to archive
+2022-06-21/11:27:22		Bad Raw Data Folder Deleted successfully!!
+2022-06-21/11:55:01		GoodRaw directory deleted successfully!!!
+2022-06-21/11:55:01		Bad files moved to archive
+2022-06-21/11:55:01		Bad Raw Data Folder Deleted successfully!!
+2022-06-21/11:59:06		BadRaw directory deleted before starting validation!!!
+2022-06-21/11:59:06		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-21/12:00:48		GoodRaw directory deleted successfully!!!
+2022-06-21/12:00:48		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2022-06-21/12:16:16		GoodRaw directory deleted successfully!!!
+2022-06-21/12:16:16		Bad files moved to archive
+2022-06-21/12:16:16		Bad Raw Data Folder Deleted successfully!!
+2022-06-21/14:49:53		GoodRaw directory deleted successfully!!!
+2022-06-21/14:49:53		Bad files moved to archive
+2022-06-21/14:49:53		Bad Raw Data Folder Deleted successfully!!
+2022-06-22/10:54:16		BadRaw directory deleted before starting validation!!!
+2022-06-22/10:54:16		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-06-22/10:57:40		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:43		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:44		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:45		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:58		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:58		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:57:58		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-06-22/10:58:38		GoodRaw directory deleted successfully!!!
+2022-06-22/11:05:12		GoodRaw directory deleted successfully!!!
+2022-06-22/11:05:12		Bad files moved to archive
+2022-06-22/11:05:12		Bad Raw Data Folder Deleted successfully!!
+2022-06-22/11:37:04		GoodRaw directory deleted successfully!!!
+2022-06-22/11:37:04		Bad files moved to archive
+2022-06-22/11:37:04		Bad Raw Data Folder Deleted successfully!!
+2022-06-23/17:15:25		GoodRaw directory deleted successfully!!!
+2022-06-23/17:15:25		Bad files moved to archive
+2022-06-23/17:15:25		Bad Raw Data Folder Deleted successfully!!
+2022-06-23/18:17:48		GoodRaw directory deleted successfully!!!
+2022-06-23/18:17:48		Bad files moved to archive
+2022-06-23/18:17:48		Bad Raw Data Folder Deleted successfully!!
+2022-06-28/13:28:24		GoodRaw directory deleted successfully!!!
+2022-06-28/13:28:24		Bad files moved to archive
+2022-06-28/13:28:24		Bad Raw Data Folder Deleted successfully!!
+2022-06-28/15:40:42		BadRaw directory deleted before starting validation!!!
+2022-06-28/15:40:42		GoodRaw directory deleted successfully!!!
+2022-06-28/15:59:45		BadRaw directory deleted before starting validation!!!
+2022-06-28/15:59:45		GoodRaw directory deleted successfully!!!
+2022-06-28/16:02:30		BadRaw directory deleted before starting validation!!!
+2022-06-28/16:02:30		GoodRaw directory deleted successfully!!!
+2022-06-28/16:02:47		BadRaw directory deleted before starting validation!!!
+2022-06-28/16:02:47		GoodRaw directory deleted successfully!!!
+2022-06-28/16:02:53		BadRaw directory deleted before starting validation!!!
+2022-06-28/16:02:53		GoodRaw directory deleted successfully!!!
+2022-06-28/16:08:25		GoodRaw directory deleted successfully!!!
+2022-06-28/16:08:25		Bad files moved to archive
+2022-06-28/16:08:25		Bad Raw Data Folder Deleted successfully!!
+2022-06-28/16:18:41		GoodRaw directory deleted successfully!!!
+2022-06-28/16:18:41		Bad files moved to archive
+2022-06-28/16:18:41		Bad Raw Data Folder Deleted successfully!!
+2022-06-28/19:33:56		BadRaw directory deleted before starting validation!!!
+2022-06-28/19:33:56		GoodRaw directory deleted successfully!!!
+2022-06-28/19:34:22		BadRaw directory deleted before starting validation!!!
+2022-06-28/19:34:22		GoodRaw directory deleted successfully!!!
+2022-06-28/19:34:27		BadRaw directory deleted before starting validation!!!
+2022-06-28/19:34:27		GoodRaw directory deleted successfully!!!
+2022-06-28/19:35:08		BadRaw directory deleted before starting validation!!!
+2022-06-28/19:35:08		GoodRaw directory deleted successfully!!!
+2022-06-28/19:35:31		BadRaw directory deleted before starting validation!!!
+2022-06-28/19:35:31		GoodRaw directory deleted successfully!!!
+2022-06-28/19:41:52		GoodRaw directory deleted successfully!!!
+2022-06-28/19:41:53		Bad files moved to archive
+2022-06-28/19:41:53		Bad Raw Data Folder Deleted successfully!!

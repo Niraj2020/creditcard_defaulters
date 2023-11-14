@@ -1,0 +1,2 @@
+2022-06-21/15:12:08		BadRaw directory deleted before starting validation!!!
+2022-06-21/15:12:08		GoodRaw directory deleted successfully!!!
